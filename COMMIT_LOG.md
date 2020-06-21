@@ -352,3 +352,4 @@
 ## 2020-03-29 22:17:14 - feat(metric): implement metric module (10/20)
 ## 2020-05-30 12:55:18 - feat(cache): implement cache module (7/20)
 ## 2020-05-31 12:32:14 - feat(log): add log endpoint (15/20)
+## 2020-06-21 15:54:12 - feat(ci): add ci support (3/20)
