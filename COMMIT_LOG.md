@@ -6,3 +6,4 @@
 ## 2020-05-31 12:32:14 - feat(log): add log endpoint (15/20)
 ## 2020-06-21 15:54:12 - feat(ci): add ci support (3/20)
 ## 2020-08-09 15:45:39 - feat(data): add data endpoint (7/20)
+## 2020-08-09 23:03:15 - feat(worker): add worker support (1/20)
