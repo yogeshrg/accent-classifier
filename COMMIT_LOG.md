@@ -242,3 +242,4 @@
 ## 2020-10-11 23:55:40 - feat(auth): implement auth feature (18/20)
 ## 2020-11-01 17:52:44 - feat(monitor): implement monitor module (15/20)
 ## 2020-11-29 18:50:43 - feat(docs): add docs support (5/20)
+## 2020-12-06 22:10:13 - feat(log): add log support (5/20)
