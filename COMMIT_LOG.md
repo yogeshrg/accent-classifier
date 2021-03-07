@@ -359,3 +359,4 @@
 ## 2020-11-01 17:52:44 - feat(monitor): implement monitor module (15/20)
 ## 2020-11-29 18:50:43 - feat(docs): add docs support (5/20)
 ## 2020-12-06 22:10:13 - feat(log): add log support (5/20)
+## 2021-03-07 23:04:31 - feat(config): add config endpoint (18/20)
