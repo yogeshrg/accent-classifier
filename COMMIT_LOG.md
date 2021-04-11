@@ -128,3 +128,4 @@
 ## 2020-11-29 18:50:43 - feat(docs): add docs support (5/20)
 ## 2020-12-06 22:10:13 - feat(log): add log support (5/20)
 ## 2021-03-07 23:04:31 - feat(config): add config endpoint (18/20)
+## 2021-04-11 20:05:46 - feat(db): add db endpoint (14/20)
