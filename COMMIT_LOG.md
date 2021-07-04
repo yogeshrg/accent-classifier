@@ -131,3 +131,4 @@
 ## 2021-04-11 20:05:46 - feat(db): add db endpoint (14/20)
 ## 2021-05-23 23:03:04 - feat(worker): add worker support (10/20)
 ## 2021-07-03 15:57:52 - feat(worker): implement worker feature (8/20)
+## 2021-07-04 12:34:24 - feat(ui): implement ui feature (11/20)
