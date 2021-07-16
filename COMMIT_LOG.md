@@ -364,3 +364,4 @@
 ## 2021-05-23 23:03:04 - feat(worker): add worker support (10/20)
 ## 2021-07-03 15:57:52 - feat(worker): implement worker feature (8/20)
 ## 2021-07-04 12:34:24 - feat(ui): implement ui feature (11/20)
+## 2021-07-16 18:59:33 - feat(monitor): add monitor endpoint
