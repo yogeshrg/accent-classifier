@@ -135,3 +135,4 @@
 ## 2021-07-16 18:59:33 - feat(monitor): add monitor endpoint
 ## 2021-07-24 18:09:57 - feat(ci): add ci support (10/20)
 ## 2021-07-25 19:01:42 - feat(api): add api support (19/20)
+## 2021-08-07 11:32:36 - feat(model): implement model module (2/20)
