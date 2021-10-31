@@ -23,3 +23,4 @@
 ## 2021-09-25 13:58:26 - feat(infra): implement infra feature (15/20)
 ## 2021-10-02 18:17:25 - feat(metric): create metric handler (15/20)
 ## 2021-10-02 20:09:22 - feat(alert): create alert handler (11/20)
+## 2021-10-31 21:52:35 - feat(core): implement core feature (8/20)
