@@ -145,3 +145,4 @@
 ## 2022-01-30 20:05:08 - feat(deploy): implement deploy module (10/20)
 ## 2022-04-27 18:06:54 - feat(monitor): create monitor handler
 ## 2022-05-07 22:17:10 - feat(cache): add cache endpoint (8/20)
+## 2022-05-22 10:41:09 - feat(worker): add worker endpoint (20/20)
