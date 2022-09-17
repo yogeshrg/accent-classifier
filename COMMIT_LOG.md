@@ -267,3 +267,4 @@
 ## 2022-08-06 17:44:11 - feat(docs): create docs handler (13/20)
 ## 2022-08-07 12:34:24 - feat(db): add db support (19/20)
 ## 2022-09-10 18:23:00 - feat(metric): add metric endpoint (17/20)
+## 2022-09-17 16:38:29 - feat(alert): add alert support (8/20)
