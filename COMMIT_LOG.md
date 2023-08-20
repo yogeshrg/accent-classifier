@@ -53,3 +53,4 @@
 ## 2023-06-22 22:26:41 - feat(worker): create worker handler
 ## 2023-06-25 16:02:54 - feat(config): create config handler (3/20)
 ## 2023-08-20 18:28:08 - feat(test): implement test module (7/20)
+## 2023-08-20 20:46:29 - feat(metric): add metric support (5/20)
