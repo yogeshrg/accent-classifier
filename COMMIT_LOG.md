@@ -171,3 +171,4 @@
 ## 2023-08-20 18:28:08 - feat(test): implement test module (7/20)
 ## 2023-08-20 20:46:29 - feat(metric): add metric support (5/20)
 ## 2023-08-26 11:06:07 - feat(infra): implement infra feature (4/20)
+## 2023-09-03 21:26:30 - feat(core): add core endpoint (13/20)
