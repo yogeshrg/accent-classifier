@@ -58,3 +58,4 @@
 ## 2023-09-03 21:26:30 - feat(core): add core endpoint (13/20)
 ## 2023-09-10 11:37:10 - feat(docs): implement docs feature (15/20)
 ## 2023-09-17 15:53:56 - feat(cache): add cache support (11/20)
+## 2023-09-24 19:56:10 - feat(cache): create cache handler (11/20)
