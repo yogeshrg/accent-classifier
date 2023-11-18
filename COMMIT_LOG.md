@@ -175,3 +175,4 @@
 ## 2023-09-10 11:37:10 - feat(docs): implement docs feature (15/20)
 ## 2023-09-17 15:53:56 - feat(cache): add cache support (11/20)
 ## 2023-09-24 19:56:10 - feat(cache): create cache handler (11/20)
+## 2023-11-18 21:48:31 - feat(api): add api support (2/20)
