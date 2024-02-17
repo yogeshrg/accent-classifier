@@ -183,3 +183,4 @@
 ## 2024-01-14 11:54:00 - feat(docs): implement docs feature (10/20)
 ## 2024-02-03 10:40:34 - feat(security): implement security feature (2/20)
 ## 2024-02-03 12:50:39 - feat(alert): implement alert feature (14/20)
+## 2024-02-17 09:12:16 - feat(ui): add ui endpoint (5/20)
