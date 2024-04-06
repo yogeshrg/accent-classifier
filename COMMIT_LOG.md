@@ -71,3 +71,4 @@
 ## 2024-02-17 13:12:07 - feat(worker): implement worker module (19/20)
 ## 2024-03-30 12:01:08 - feat(queue): implement queue feature (6/20)
 ## 2024-03-30 23:00:40 - feat(worker): add worker support (14/20)
+## 2024-04-06 19:44:16 - feat(alert): add alert support (12/20)
