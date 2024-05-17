@@ -306,3 +306,4 @@
 ## 2024-04-06 19:44:16 - feat(alert): add alert support (12/20)
 ## 2024-04-07 14:42:49 - feat(model): implement model feature (11/20)
 ## 2024-04-13 14:09:09 - feat(core): add core endpoint (12/20)
+## 2024-05-17 20:30:25 - feat(ui): add ui support
