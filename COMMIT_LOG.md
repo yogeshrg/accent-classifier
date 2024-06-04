@@ -192,3 +192,4 @@
 ## 2024-04-13 14:09:09 - feat(core): add core endpoint (12/20)
 ## 2024-05-17 20:30:25 - feat(ui): add ui support
 ## 2024-06-02 16:05:03 - feat(test): create test handler (14/20)
+## 2024-06-04 19:10:55 - feat(api): implement api feature
