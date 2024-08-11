@@ -196,3 +196,4 @@
 ## 2024-06-23 10:14:52 - feat(build): implement build feature (5/20)
 ## 2024-06-30 14:41:06 - feat(queue): implement queue feature (18/20)
 ## 2024-07-06 20:52:54 - feat(test): add test support (15/20)
+## 2024-08-11 12:52:56 - feat(infra): add infra endpoint (16/20)
