@@ -88,3 +88,4 @@
 ## 2025-02-22 18:23:58 - feat(ui): implement ui module (1/20)
 ## 2025-02-22 20:29:27 - feat(monitor): implement monitor module (10/20)
 ## 2025-03-01 22:40:15 - feat(infra): add infra support (11/20)
+## 2025-03-09 13:55:51 - feat(worker): add worker endpoint (13/20)
