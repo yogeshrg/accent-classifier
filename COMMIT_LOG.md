@@ -337,3 +337,4 @@
 ## 2025-12-20 10:29:46 - feat(data): add data endpoint (19/20)
 ## 2026-01-21 19:04:08 - feat(ui): implement ui module
 ## 2026-03-08 14:31:29 - feat(core): add core endpoint (7/20)
+## 2026-04-18 19:25:15 - feat(queue): add queue support (14/20)
