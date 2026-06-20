@@ -340,3 +340,4 @@
 ## 2026-04-18 19:25:15 - feat(queue): add queue support (14/20)
 ## 2026-04-29 23:03:11 - feat(build): add build endpoint
 ## 2026-05-18 23:52:07 - feat(ui): implement ui module
+## 2026-06-20 09:38:18 - feat(worker): add worker support (11/20)
